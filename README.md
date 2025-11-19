@@ -2,7 +2,7 @@
 
 ### A permacomputing project repurposing legacy hardware into a dual-protocol (Gemini + Web) communication node.
 
-
+https://github.com/user-attachments/assets/4e2a702f-79d9-4b1d-801c-f67463c86f99
 
 ## Product Vision
 
