@@ -1,0 +1,19 @@
+[Unit]
+Description=Jetforce Gemini Server
+After=network.target
+
+[Service]
+User=nik
+Group=nik
+ExecStart=/home/nik/.local/bin/jetforce \
+    --dir /home/nik/gemini/content \
+    --host 0.0.0.0 \
+    --port 1965 \
+    --hostname sv1syy.radio \
+    --tls-certfile /home/nik/gemini/certs/cert.pem \
+    --tls-keyfile /home/nik/gemini/certs/key.pem
+
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

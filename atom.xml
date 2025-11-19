@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SV1SYY Radio Capsule</title>
+  <link href="gemini://sv1syy.radio/atom.xml" rel="self"/>
+  <link href="gemini://sv1syy.radio/"/>
+  <updated>2025-11-19T18:30:00Z</updated>
+  <id>gemini://sv1syy.radio/</id>
+
+<entry>
+  <title>Rescuing a Raspberry Pi 3B</title>
+  <link href="gemini://sv1syy.radio/posts/2025-11-19-my-pi-setup.gmi"/>
+  <id>gemini://sv1syy.radio/posts/2025-11-19-my-pi-setup.gmi</id>
+  <updated>2025-11-19T18:30:00Z</updated>
+  <summary>Reviving an old Pi 3B with a Kintaro case to run my capsule.</summary>
+</entry>
+
+  <entry>
+    <title>Hello World</title>
+    <link href="gemini://sv1syy.radio/index.gmi"/>
+    <id>gemini://sv1syy.radio/index.gmi</id>
+    <updated>2025-11-19T10:00:00Z</updated>
+    <summary>My first post on Gemini!</summary>
+  </entry>
+</feed>

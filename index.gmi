@@ -1,0 +1,58 @@
+```
+  -----II-----     
+                   
+ ------II------ 
+          
+-------II-------  
+                  
+       II
+      I--I                       (                     689
+      I /I                            )          689 689689
+      I/ I                    (                66898886898   689
+      I--I                        )           6688968889' 688698
+      I /I                   ( )             668889'-18;8688889
+      I/ I          .--------HH-----.          688988'1169;'889
+      I--I        ." ".--------------".       68889 61168;689
+      I /I      ."     ".--------------".      6889   11.16889
+      I/ I     ""       ""--------------""      88   ';;;' 89
+      I--I      "  H H  "    ..         "             ;;;   8
+                   I I
+     SV1SYY     "       "    ""    HH   "            .11'
+                             ..    II
+                "---... A ...""---------"            111.
+                        :
+                                                    .111"..
+                                                   ,"  ".
+```
+
+# Ham Radio Capsule of SV1SYY
+
+## Welcome to my Gemini home, dedicated to amateur radio and related computing adventures.
+
+This capsule is very new and very cool! It's powered by a Raspberry Pi 3B running a Jetforce Gemini server written in Python.
+
+It will be documenting my ham radio activities. Stay tuned for more! 
+
+## Contact & QSL
+I am active on HF (mostly CW QRP) and enjoy exchanging QSL cards (Direct or Bureau).
+
+For my full mailing address and email, please visit my QRZ profile:
+=> https://www.qrz.com/db/SV1SYY SV1SYY on QRZ.com
+
+73 de Nik SV1SYY
+
+## Gemlog
+=> /posts/2025-11-19-my-pi-setup.gmi 2025-11-19 - Rescuing a Raspberry Pi 3B
+
+
+
+---
+=> atom.xml Subscribe via Atom Feed
+---
+© 2025 Nik SV1SYY
+Unless otherwise noted:
+* Content is licensed under CC BY-SA 4.0
+* Code snippets are licensed under the GNU GPLv3
+
+=> https://creativecommons.org/licenses/by-sa/4.0/ Read the CC BY-SA 4.0 Deed
+=> https://www.gnu.org/licenses/gpl-3.0.html Read the GPLv3 License
