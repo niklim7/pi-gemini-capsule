@@ -2,7 +2,7 @@
 
 ### A permacomputing project repurposing legacy hardware into a dual-protocol (Gemini + Web) communication node.
 
-https://github.com/niklim7/pi-gemini-capsule/issues/1#issue-3644135929
+<img width="800" height="592" alt="Image" src="https://github.com/user-attachments/assets/33bced40-dcef-4214-82ce-2a095072680c" />
 
 ## Product Vision
 
